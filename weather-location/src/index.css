@@ -16,4 +16,5 @@ code {
   background: #999999;
   height: 100vh;
   width: 100% ;
+  overflow: auto;
 }
